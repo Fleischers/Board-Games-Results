@@ -1,7 +1,6 @@
 ARG NODEJS_VERSION=8.11.4
 
 FROM node:${NODEJS_VERSION} as build
-MAINTAINER Gorlif Sense
 ARG NODE_ENV=build
 WORKDIR /opt/app/
 # install all dependencies (including dev dependencies for test, build, etc)
