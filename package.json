@@ -51,7 +51,7 @@
   },
   "homepage": "https://github.com/GorlifSense/Board-Games-Results#readme",
   "dependencies": {
-    "boom": "^3.2.1",
+    "boom": "^7.3.0",
     "bower": "^1.8.4",
     "co-body": "^4.2.0",
     "co-views": "^2.1.0",
